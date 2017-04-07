@@ -1,15 +1,15 @@
 {
-	"name": "API Show de Bola",
-	"version": "1.0.0",
-	"public": true,
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"dependencies": {
-		"angular": "^1.6.4",
-		"body-parser": "^1.17.1",
-		"express": "^4.15.2",
-		"mongodb": "^2.2.25"
-	}
+  "name": "api-show-de-bola",
+  "version": "1.0.0",
+  "public": true,
+  "main": "server.js",
+  "scripts": {
+     "start": "node server.js"
+  },
+  "dependencies": {
+     "angular": "^1.6.4",
+     "body-parser": "^1.17.1",
+     "express": "^4.15.2",
+     "mongodb": "^2.2.25"
+  }
 }
